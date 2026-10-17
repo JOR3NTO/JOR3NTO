@@ -4,16 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00E5FF,100:7C4DFF&text=Jorge%20Cobo&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Backend%20%C2%B7%20Arquitectura%20de%20Software%20%C2%B7%20IA%20aplicada&descSize=20&descAlignY=60&animation=fadeIn" alt="Jorge Cobo" width="100%"/>
 
 <a href="https://github.com/JOR3NTO">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=760&height=45&lines=Ingeniero+de+Sistemas+%7C+9.%C2%BA+semestre;Backend+con+Java+y+Spring+Boot;Microservicios+%C2%B7+Clean+Architecture+%C2%B7+Docker;Integrando+LLMs+y+agentes+en+productos+reales;Buscando+pr%C3%A1ctica+profesional+2027-1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=760&height=45&lines=Ingeniero+de+Sistemas+%7C+9.%C2%BA+semestre;Backend+con+Java+y+Spring+Boot;Microservicios+%C2%B7+Clean+Architecture+%C2%B7+Docker;Integrando+LLMs+y+agentes+en+productos+reales;Abierto+a+oportunidades+en+Backend%2C+Frontend+y+Arquitectura" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jor3nto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jor3nto)
 [![Email](https://img.shields.io/badge/Email-jorgeedcobo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeedcobo@gmail.com)
-[![Estado](https://img.shields.io/badge/Disponible-pr%C3%A1ctica%202027--1-00C853?style=for-the-badge)](https://www.linkedin.com/in/jor3nto)
-
-![Visitas](https://komarev.com/ghpvc/?username=JOR3NTO&label=Visitas&style=flat-square&color=7C4DFF)
+[![Estado](https://img.shields.io/badge/Abierto_a_oportunidades-Backend_%C2%B7_Frontend_%C2%B7_Arquitectura-00C853?style=for-the-badge)](https://www.linkedin.com/in/jor3nto)
 
 </div>
 
@@ -25,7 +23,7 @@ Estudiante de **Ingeniería de Sistemas** en la **UCEVA** (Tuluá, Colombia), a 
 
 También **enseño**: llevo desde 2024 como docente técnico, así que si algo no lo sé explicar, todavía no lo entiendo bien.
 
-> 🇬🇧 *Systems Engineering student (English B2) focused on Java/Spring Boot backends, distributed architectures and LLM integrations. Open to a 2027-1 internship or junior role.*
+> 🇬🇧 *Systems Engineering student (English B2) focused on Java/Spring Boot backends, distributed architectures and LLM integrations. Open to opportunities in backend, frontend and software architecture.*
 
 <table>
 <tr>
@@ -34,15 +32,14 @@ También **enseño**: llevo desde 2024 como docente técnico, así que si algo n
 ### 🔭 Ahora mismo
 - 🏗️ Construyendo **GOSLINT**, mi trabajo de grado
 - 📐 Cursando *Diseño y arquitectura de software* (Coursera)
-- 🏆 Liderando el semillero de **programación competitiva** GOSLINT
+- 🏆 Gestor del semillero de **programación competitiva** GOSLINT
 - 🤖 Explorando desarrollo asistido por IA y agentes (Claude Code)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 Lo que busco
-- 💼 **Práctica profesional** (ciclo 2027-1) o cargo junior
-- ⚙️ Backend o full-stack
+- 💼 Oportunidades en **Backend**, **Frontend** y **Arquitectura de software**
 - 🌱 Equipos donde se aprenda rápido y se revise código
 - 🤝 Mentores, retos reales y metodologías ágiles
 
@@ -125,8 +122,6 @@ También **enseño**: llevo desde 2024 como docente técnico, así que si algo n
 
 <img src="https://streak-stats.demolab.com?user=JOR3NTO&theme=tokyonight&hide_border=true" alt="Racha" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JOR3NTO&theme=tokyo-night&hide_border=true&area=true&color=00E5FF&line=7C4DFF&point=ffffff" alt="Actividad" width="100%" />
-
 </div>
 
 ### 🐍 Mi racha, versión serpiente
@@ -146,19 +141,12 @@ También **enseño**: llevo desde 2024 como docente técnico, así que si algo n
 ## 🎸 Fuera del código
 
 - 🎶 Fundador de **Cinderwood**, banda que ha ido del folk rock hacia un indie rock con aire ochentero: sintetizadores y guitarras espaciales.
-- 🧑‍🏫 Me encanta explicar: Linux, redes, programación y lógica algorítmica.
-- 🎬 Fan de la producción de series animadas y de las herramientas con las que se hacen.
+- 🧑‍🏫 Me gusta enseñar y transmitir conocimiento.
+- 🎬 Me gusta ver películas interesantes y buenas historias.
 
 ---
 
 <div align="center">
-
-### 📬 Hablemos
-
-Si tienes una **práctica**, un proyecto o solo ganas de hablar de arquitectura, microservicios o música, escríbeme.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jor3nto)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jorgeedcobo@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C4DFF,100:00E5FF&section=footer" width="100%" alt="" />
 
